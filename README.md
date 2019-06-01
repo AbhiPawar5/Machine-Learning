@@ -31,11 +31,16 @@ This repository has simple and basic programs of Machine Learning implemented vi
     Results : Cross validation accuracy of 82% is achieved and open to all for further improvement.
     
 4) Predict Malignancy in Breast Cancer:
-    Supporting Dataset : train_u6lujuX_CVtuZ9i.csv and test_Y3wMUE5_7gLdaTN.csv
+    Supporting Dataset : cancer.csv
     
-    Description : This dataset has 614 rows and 13 coloumns(including target) with attributes like gender,applicant income,
-    marriage status and credit history and so on.    
+    Description : This data was gathered by the University of Wisconsin Hospitals, Madison and by Dr. William H. Wolberg.
+    The following 9 columns are features that express different types of information connected to the detected tumors. 
+    They represent data related to: Clump Thickness, Uniformity of Cell Size, Uniformity of Cell Shape, Marginal Adhesion, 
+    Single Epithelial Cell Size, Bare Nuclei, Bland Chromatin, Normal Nucleoli and Mitoses.
     
-    Goal : Predict whether loan can be approved or not based on features mentioned in dataset and test model on test set
+    The last column is the class of the tumor and it has two possible values: 2 means that the tumor was found to be benign. 
+    4 means that it was found to be malignant.
     
-    Results : Cross validation accuracy of 82% is achieved and open to all for further improvement.
+    Goal : Predict if a tumor is benign or malignant, based on the features provided by the data. 
+    
+    Results : Cross validation accuracy of 96% is achieved and open to all for further improvement.
