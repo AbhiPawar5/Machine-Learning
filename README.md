@@ -19,3 +19,23 @@ This repository has simple and basic programs of Machine Learning implemented vi
     Goal : Generate rules using Apriori algorithm
     
     Results : Few rules are generated indication X item can be bought with item Y.
+
+3) Loan Approval Prediction using Machine Learning:
+    Supporting Dataset : train_u6lujuX_CVtuZ9i.csv and test_Y3wMUE5_7gLdaTN.csv
+    
+    Description : This dataset has 614 rows and 13 coloumns(including target) with attributes like gender,applicant income,
+    marriage status and credit history and so on.    
+    
+    Goal : Predict whether loan can be approved or not based on features mentioned in dataset and test model on test set
+    
+    Results : Cross validation accuracy of 82% is achieved and open to all for further improvement.
+    
+4) Predict Malignancy in Breast Cancer:
+    Supporting Dataset : train_u6lujuX_CVtuZ9i.csv and test_Y3wMUE5_7gLdaTN.csv
+    
+    Description : This dataset has 614 rows and 13 coloumns(including target) with attributes like gender,applicant income,
+    marriage status and credit history and so on.    
+    
+    Goal : Predict whether loan can be approved or not based on features mentioned in dataset and test model on test set
+    
+    Results : Cross validation accuracy of 82% is achieved and open to all for further improvement.
