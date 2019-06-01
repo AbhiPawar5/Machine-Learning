@@ -44,3 +44,13 @@ This repository has simple and basic programs of Machine Learning implemented vi
     Goal : Predict if a tumor is benign or malignant, based on the features provided by the data. 
     
     Results : Cross validation accuracy of 96% is achieved and open to all for further improvement.
+    
+5) Diabetes Prediction in Women:
+    Supporting Dataset : pima-indians-diabetes.data.csv
+    
+    Description : This dataset is originally from the National Institute of Diabetes and Digestive and Kidney Diseases. 
+    
+    Goal : The objective of the dataset is to diagnostically predict whether or not a patient has diabetes, based on certain diagnostic
+    measurements included in the dataset
+    
+    Results : Cross validation accuracy of 80% is achieved and open to all for further improvement.
