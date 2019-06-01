@@ -54,3 +54,15 @@ This repository has simple and basic programs of Machine Learning implemented vi
     measurements included in the dataset
     
     Results : Cross validation accuracy of 80% is achieved and open to all for further improvement.
+
+6) Board Game Predicition:
+    Supporting Dataset : games.csv
+    
+    Description : Board games have been making a comeback lately, and deeper, more strategic boardgames, like Settlers of Catan 
+    have become hugely popular. BoardGameGeek is a popular site where these types of board games are discussed and reviewed. 
+    Here we have a dataset that contains 80000 board games and their associated review scores. 
+    The data was scraped from BoardGameGeek and compiled into CSV format by Sean Beck.
+    
+    Goal : The goal of this project was to create a model that can accurately predict game ratings.
+    
+    Results :  and open to all for further improvement.
