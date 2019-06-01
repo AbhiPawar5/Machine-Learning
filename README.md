@@ -11,4 +11,11 @@ This repository has simple and basic programs of Machine Learning implemented vi
     
     Results : 100% with KNN and Decision Tree
     
+2) Market Basket Analysis using Association Rule Learning 
+    Supporting Dataset : Market_Basket_Optimisation.csv
     
+    Description : The CSV contains about 7500 transcation of an imaginary supermarket. These transcations are arranged with items as coloumns.    
+    
+    Goal : Generate rules using Apriori algorithm
+    
+    Results : Few rules are generated indication X item can be bought with item Y.
