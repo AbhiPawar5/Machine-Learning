@@ -14,7 +14,7 @@ This repository has simple and basic programs of Machine Learning implemented vi
 2) Market Basket Analysis using Association Rule Learning 
     Supporting Dataset : Market_Basket_Optimisation.csv
     
-    Description : The CSV contains about 7500 transcation of an imaginary supermarket. These transcations are arranged with items as coloumns.    
+    Description : The CSV contains about 7500 transcation of an imaginary supermarket. These transcations are arranged with items as columns.    
     
     Goal : Generate rules using Apriori algorithm
     
