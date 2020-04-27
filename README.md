@@ -3,7 +3,7 @@ This repository has simple and basic programs of Machine Learning implemented vi
 
 ### Note : A lot of improved/latest code has not been updated over time because of college work. Apologies!
 
-1) Fruit Classification using Machine Learning :
+#### 1) Fruit Classification using Machine Learning :
     Supporting Dataset : fruit_data_with_colors.txt
     
     Description : The fruits dataset was created by Dr. Iain Murray from University of Edinburgh. 
@@ -13,7 +13,7 @@ This repository has simple and basic programs of Machine Learning implemented vi
     
     Results : 100% with KNN and Decision Tree
     
-2) Market Basket Analysis using Association Rule Learning 
+#### 2) Market Basket Analysis using Association Rule Learning 
     Supporting Dataset : Market_Basket_Optimisation.csv
     
     Description : The CSV contains about 7500 transcation of an imaginary supermarket. These transcations are arranged with items as columns.    
@@ -22,7 +22,7 @@ This repository has simple and basic programs of Machine Learning implemented vi
     
     Results : Few rules are generated indication X item can be bought with item Y.
 
-3) Loan Approval Prediction using Machine Learning:
+#### 3) Loan Approval Prediction using Machine Learning:
     Supporting Dataset : train_u6lujuX_CVtuZ9i.csv and test_Y3wMUE5_7gLdaTN.csv
     
     Description : This dataset has 614 rows and 13 coloumns(including target) with attributes like gender,applicant income,
@@ -32,7 +32,7 @@ This repository has simple and basic programs of Machine Learning implemented vi
     
     Results : Cross validation accuracy of 82% is achieved and open to all for further improvement.
     
-4) Predict Malignancy in Breast Cancer:
+#### 4) Predict Malignancy in Breast Cancer:
     Supporting Dataset : cancer.csv
     
     Description : This data was gathered by the University of Wisconsin Hospitals, Madison and by Dr. William H. Wolberg.
@@ -47,7 +47,7 @@ This repository has simple and basic programs of Machine Learning implemented vi
     
     Results : Cross validation accuracy of 96% is achieved and open to all for further improvement.
     
-5) Diabetes Prediction in Women:
+#### 5) Diabetes Prediction in Women:
     Supporting Dataset : pima-indians-diabetes.data.csv
     
     Description : This dataset is originally from the National Institute of Diabetes and Digestive and Kidney Diseases. 
@@ -57,7 +57,7 @@ This repository has simple and basic programs of Machine Learning implemented vi
     
     Results : Cross validation accuracy of 80% is achieved and open to all for further improvement.
 
-6) Board Game Predicition:
+#### 6) Board Game Predicition:
     Supporting Dataset : games.csv
     
     Description : Board games have been making a comeback lately, and deeper, more strategic boardgames, like Settlers of Catan 
