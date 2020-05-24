@@ -67,4 +67,15 @@ This repository has simple and basic programs of Machine Learning implemented vi
     
     Goal : The goal of this project was to create a model that can accurately predict game ratings.
     
-    Results :  and open to all for further improvement.
+    Results : 60% and open to all for further improvement.
+    
+ #### 7) Transfer Learning - Dogs vs Cats classification:
+    Supporting Dataset : Kaggle's Dogs vs Cats dataset
+    
+    Description : The Kaggle competition provided 25,000 labeled photos: 12,500 dogs and the same number of cats. Predictions were then
+    then required on a test dataset of 12,500 unlabeled photographs. It is a good begineer to intermediate level project for Computer Vision    
+    tasks
+    
+    Goal : The goal of this project is to implement transfer learning for our dataset and classify given image.
+    
+    Results : 94% accuracy on classification and open to all for further improvement.
