@@ -1,7 +1,7 @@
 # Machine-Learning
 This repository has simple and basic programs of Machine Learning implemented via Python and other supporting libraries
 
-### Note : A lot of improved/latest code has not been updated over time because of college work. Apologies!
+### Note : A lot of improved/latest code has not been updated over time because of college work and internship. Apologies!
 
 #### 1) Fruit Classification using Machine Learning :
     Supporting Dataset : fruit_data_with_colors.txt
