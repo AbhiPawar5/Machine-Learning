@@ -1,7 +1,7 @@
 # Machine-Learning
 Collection of Machine Learning projects implemented via Python and other supporting libraries
 
-### Note : A lot of improved/latest code has not been updated over time. Sincere Apologies!
+### Note : A lot of improved/latest code has not been updated over time. Apologies!
 
 #### 1) Fruit Classification using Machine Learning :
     Supporting Dataset : fruit_data_with_colors.txt
