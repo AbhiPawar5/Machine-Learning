@@ -16,7 +16,8 @@ Collection of Machine Learning projects implemented via Python and other support
 #### 2) Market Basket Analysis using Association Rule Learning 
     Supporting Dataset : Market_Basket_Optimisation.csv
     
-    Description : The CSV contains about 7500 transcation of an imaginary supermarket. These transcations are arranged with items as columns.    
+    Description : The CSV contains about 7500 transcation of an imaginary supermarket. 
+    These transcations are arranged with items as columns.    
     
     Goal : Generate rules using Apriori algorithm
     
