@@ -20,7 +20,7 @@ Collection of Machine Learning projects implemented via Python and other support
     
     Goal : Generate rules using Apriori algorithm
     
-    Results : Few rules are generated indication X item can be bought with item Y.
+    Results : 160 rules are generated indicating item X can be bought with item Y.
 
 #### 3) Loan Approval Prediction using Machine Learning:
     Supporting Dataset : train_u6lujuX_CVtuZ9i.csv and test_Y3wMUE5_7gLdaTN.csv
