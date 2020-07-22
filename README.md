@@ -8,8 +8,8 @@ Collection of Machine Learning projects implemented via Python and other support
     
     Description : This dataset is originally from the National Institute of Diabetes and Digestive and Kidney Diseases. 
     
-    Goal : The objective of the dataset is to diagnostically predict whether or not a patient has diabetes, based on certain diagnostic
-    measurements included in the dataset
+    Goal : The objective of the dataset is to diagnostically predict whether or not a patient has diabetes, 
+    based on certain diagnostic measurements included in the dataset
     
     Results : Cross validation accuracy of 80% is achieved and open to all for further improvement.
     
@@ -53,9 +53,9 @@ Collection of Machine Learning projects implemented via Python and other support
  #### 5) Transfer Learning - Dogs vs Cats classification:
     Supporting Dataset : Kaggle's Dogs vs Cats dataset
     
-    Description : The Kaggle competition provided 25,000 labeled photos: 12,500 dogs and the same number of cats. Predictions were then
-    then required on a test dataset of 12,500 unlabeled photographs. It is a good begineer to intermediate level project for Computer Vision    
-    tasks
+    Description : The Kaggle competition provided 25,000 labeled photos: 12,500 dogs and the same number of cats. 
+    Predictions were then required on a test dataset of 12,500 unlabeled photographs. It is a good beginner to intermediate 
+    level project for Computer Vision tasks
     
     Goal : The goal of this project is to implement transfer learning for our dataset and classify given image.
     
